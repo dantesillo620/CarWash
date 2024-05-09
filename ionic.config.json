@@ -1,0 +1,11 @@
+{
+  "name": "Carwash",
+  "integrations": {
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "293b94e9"
+}

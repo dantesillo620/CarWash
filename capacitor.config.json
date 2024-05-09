@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Carwash",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
